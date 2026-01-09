@@ -1,3 +1,11 @@
+<img 
+  src="./banner.png" 
+  width="100%" 
+  style="border-radius:18px; object-fit:cover;" 
+/>
+
+
+
 <p align="center">
   <h1 align="center">👋 Hi, I'm Vineet Chandel</h1>
   <h3 align="center">Full Stack Developer | B.Tech – CSE (Student)</h3>
