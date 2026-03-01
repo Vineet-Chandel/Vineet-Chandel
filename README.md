@@ -4,7 +4,7 @@
   width="100%" 
   style="border-radius:18px; object-fit:cover;" 
 />
-<h1 align="center">👋 Hi, I'm Vineet Chandel</h1>
+<h1 align="center">👋 Hi, I'm Vineet Singh Chandel</h1>
 </div>
 
 ---
