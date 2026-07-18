@@ -10,11 +10,11 @@
 ---
 
 <div>
-<h1> 🚀  Summary </h1>
+<h1> Summary </h1>
 <p>Actively upskilling as a full-stack web developer by building real-world, end-to-end applications. Passionate about creating scalable solutions and continuously learning new technologies.</p>
 </div>
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | **Category** | **Technologies** |
 |--------------|------------------|
